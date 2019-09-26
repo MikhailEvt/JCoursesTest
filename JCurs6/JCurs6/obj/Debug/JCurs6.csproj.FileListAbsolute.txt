@@ -1,0 +1,7 @@
+C:\Users\Mikhail\source\repos\JCurs6\JCurs6\bin\Debug\JCurs6.exe.config
+C:\Users\Mikhail\source\repos\JCurs6\JCurs6\bin\Debug\JCurs6.exe
+C:\Users\Mikhail\source\repos\JCurs6\JCurs6\bin\Debug\JCurs6.pdb
+C:\Users\Mikhail\source\repos\JCurs6\JCurs6\obj\Debug\JCurs6.csprojAssemblyReference.cache
+C:\Users\Mikhail\source\repos\JCurs6\JCurs6\obj\Debug\JCurs6.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\JCurs6\JCurs6\obj\Debug\JCurs6.exe
+C:\Users\Mikhail\source\repos\JCurs6\JCurs6\obj\Debug\JCurs6.pdb

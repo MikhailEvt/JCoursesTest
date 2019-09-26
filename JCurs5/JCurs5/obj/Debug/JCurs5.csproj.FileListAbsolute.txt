@@ -1,0 +1,7 @@
+C:\Users\Mikhail\source\repos\JCurs5\JCurs5\bin\Debug\JCurs5.exe.config
+C:\Users\Mikhail\source\repos\JCurs5\JCurs5\bin\Debug\JCurs5.exe
+C:\Users\Mikhail\source\repos\JCurs5\JCurs5\bin\Debug\JCurs5.pdb
+C:\Users\Mikhail\source\repos\JCurs5\JCurs5\obj\Debug\JCurs5.csprojAssemblyReference.cache
+C:\Users\Mikhail\source\repos\JCurs5\JCurs5\obj\Debug\JCurs5.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\JCurs5\JCurs5\obj\Debug\JCurs5.exe
+C:\Users\Mikhail\source\repos\JCurs5\JCurs5\obj\Debug\JCurs5.pdb

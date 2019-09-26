@@ -1,0 +1,7 @@
+C:\Users\Mikhail\source\repos\JCur2\JCur2\bin\Debug\JCur2.exe.config
+C:\Users\Mikhail\source\repos\JCur2\JCur2\bin\Debug\JCur2.exe
+C:\Users\Mikhail\source\repos\JCur2\JCur2\bin\Debug\JCur2.pdb
+C:\Users\Mikhail\source\repos\JCur2\JCur2\obj\Debug\JCur2.csprojAssemblyReference.cache
+C:\Users\Mikhail\source\repos\JCur2\JCur2\obj\Debug\JCur2.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\JCur2\JCur2\obj\Debug\JCur2.exe
+C:\Users\Mikhail\source\repos\JCur2\JCur2\obj\Debug\JCur2.pdb

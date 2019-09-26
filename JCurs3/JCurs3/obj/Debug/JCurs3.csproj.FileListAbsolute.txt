@@ -1,0 +1,7 @@
+C:\Users\Mikhail\source\repos\JCurs3\JCurs3\bin\Debug\JCurs3.exe.config
+C:\Users\Mikhail\source\repos\JCurs3\JCurs3\bin\Debug\JCurs3.exe
+C:\Users\Mikhail\source\repos\JCurs3\JCurs3\bin\Debug\JCurs3.pdb
+C:\Users\Mikhail\source\repos\JCurs3\JCurs3\obj\Debug\JCurs3.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\JCurs3\JCurs3\obj\Debug\JCurs3.exe
+C:\Users\Mikhail\source\repos\JCurs3\JCurs3\obj\Debug\JCurs3.pdb
+C:\Users\Mikhail\source\repos\JCurs3\JCurs3\obj\Debug\JCurs3.csprojAssemblyReference.cache
