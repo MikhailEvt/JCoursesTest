@@ -14,8 +14,8 @@ namespace JCur2
             string Rez = "";
             try
             {
-               a = UInt32.Parse(Console.ReadLine());
-               b = UInt32.Parse(Console.ReadLine());
+               a = uint.Parse(Console.ReadLine());
+               b = uint.Parse(Console.ReadLine());
                Rez += "НОД(" + a + ", " + b + ") = " + gcd(a, b)+"\n";
                Rez += "НОК(" + a + ", " + b + ") = " + a * b / gcd(a, b);
                 Console.WriteLine(Rez);
