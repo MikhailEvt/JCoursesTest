@@ -14,7 +14,7 @@ namespace JCur1
             try
             {
                 Console.WriteLine("Введите число: ");
-                Val = UInt32.Parse(Console.ReadLine());
+                Val = uint.Parse(Console.ReadLine());
                 Console.WriteLine(Pr(Val));
                 
             }
